@@ -2,7 +2,8 @@ $(document).ready(function() {
     const linkToPageMapping = {
         'https://obrazovaka.ru/session/c5a981': 'page1.html',
         'https://obrazovaka.ru/session/bb915d': 'page2.html',
-        'https://obrazovaka.ru/session/4bbc67': 'page3.html'
+        'https://obrazovaka.ru/session/4bbc67': 'page3.html',
+        'https://obrazovaka.ru/session/4bbc67': 'page4.html'
     };
 
     // Search button click event
